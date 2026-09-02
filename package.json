@@ -1,0 +1,7 @@
+{
+  "name": "order-management-types-example",
+  "private": true,
+  "scripts": {
+    "test": "tsc && node -e \"console.log('TypeScript check passed')\""
+  }
+}
